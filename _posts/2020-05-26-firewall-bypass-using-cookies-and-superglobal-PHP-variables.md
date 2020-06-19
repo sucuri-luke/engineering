@@ -6,9 +6,9 @@ cover: /assets/images/firewall-bypass-using-cookies-and-superglobal-PHP-variable
 excerpt: Attackers need to send requests to their uploaded malware, but how can they do so without triggering a firewall? This is one bypass method...
 authors:
   - name: Luke Leal
-	title: Security Engineer, Sucuri
-	url: https://twitter.com/rootprivilege
-	photo: https://avatars.githubusercontent.com/sucuri-luke
+    title: Security Engineer, Sucuri
+    url: https://twitter.com/rootprivilege
+    photo: https://avatars.githubusercontent.com/sucuri-luke
 ---
 
 When we investigate compromised websites, it's not unusual to find malicious files that have been obfuscated through encoding or encryption — however, these are not the only methods that attackers use to obfuscate and execute their malware within compromised environments.
